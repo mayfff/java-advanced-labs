@@ -15,7 +15,7 @@ public class ChthonicEntity {
     /**
      * Constructs a new ChthonicEntity with the specified attributes.
      *
-     * @param name The name of the entity (e.g., "Vampire", "Demon").
+     * @param name The name of the entity (e.g., "Entity#1").
      * @param type The type of the entity (e.g., "Demon", "Vampire", etc.).
      * @param firstMentionDate The date when the entity was first mentioned in literature.
      * @param attackPower The attack power of the entity, representing its strength.
