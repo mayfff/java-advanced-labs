@@ -1,5 +1,5 @@
 # java-advanced-labs
-laborotory works for java advanced course
+laboratory works for java advanced course
 
 # Author: IO-24 Zakrevskyi Danylo
 
